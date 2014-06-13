@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::Openstack::Nova.
+
+0.01  Thu Jun 12 11:57:03 2014
+	- original version; created by h2xs 1.23 with options
+		-XAn Net::Openstack::Nova
+
